@@ -21,7 +21,7 @@ func UserSeeder(db *gorm.DB) error {
 			Email: "johndoe@mail.com",
 		},
 		{
-			Name:  "Yoni Saka",
+			Name:  "",
 			Email: "nurchulis@mail.com",
 		},
 	}
